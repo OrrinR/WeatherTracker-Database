@@ -1,12 +1,22 @@
-Donation Management Platform
+Weather Tracking Database
 
-Software Engineering project designed to manage charitable donations.
+This project demonstrates the design and implementation of a relational database system
 
-Features:
-- User Management
-- Donation tracking
+Features
+- Database creation
 
-  Languages
-  - Java
-  - UML
-  - Database Design
+
+Table relationships
+- SQL queries
+- Data management
+
+Technologies
+- SQL
+- MySQL
+- Database Design
+
+Skills Demonstrated
+- Entity Relationship Modeling
+- Database Normalization
+- SQL Query Writing
+- Data Management
