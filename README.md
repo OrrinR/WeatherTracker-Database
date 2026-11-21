@@ -20,3 +20,4 @@ Skills Demonstrated
 - Database Normalization
 - SQL Query Writing
 - Data Management
+<img width="927" height="502" alt="Weather" src="https://github.com/user-attachments/assets/432d816c-0224-4e59-810d-7b70c7165367" />
